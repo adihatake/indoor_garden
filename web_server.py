@@ -9,8 +9,8 @@ import sys
 import json
 
 
-ssid = 'HajileNetwok'
-password = 'Shaw121828?'
+ssid = ""
+password = ""
 
 
 def connect():
